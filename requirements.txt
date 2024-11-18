@@ -1,0 +1,11 @@
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+pandas
+numpy
+statsmodels
+Feature-engine
+joblib
+scipy
+xgboost
